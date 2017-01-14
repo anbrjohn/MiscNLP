@@ -6,10 +6,10 @@
 
 """
 Part of Speech Tagger using the Viterbi algorithm
-implemented from scratch, with backpointers and
-backptracking, with and without smoothing (Laplace).
-Using a German training & test corpus, over 90%
-accuracy assigning parts of speech.
+on a Hidden Markov Model implemented from scratch, 
+with backpointers and backtracking, with and without 
+smoothing (Laplace). Using a German training & test 
+corpus, over 90% accuracy assigning parts of speech.
 """
 
 ###Module 1 - Corpus Reader and Writer###
