@@ -4,7 +4,7 @@
 Naive Bayes classifier for spam emails, using absolute discounting.
 On given data with preset parameters, the resulting accuracy is 92.0%.
 With parameter tuning, an accuracy of up to 98.0% can be achieved when
-d = 0.1 and the class prior = 0.3.
+discounting factor = 0.1 and the class prior = 0.3.
 
 ![My image](https://github.com/anbrjohn/MiscNLP/blob/master/output.png)
 
